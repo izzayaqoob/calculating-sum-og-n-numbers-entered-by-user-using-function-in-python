@@ -1,1 +1,1 @@
-# calculating-sum-og-n-numbers-entered-by-user-using-function-in-python
+# calculating-sum-of-n-numbers-entered-by-user-using-function-in-python
